@@ -14,8 +14,8 @@ To Write a Program for Implementing merge sort using python recursion
 ```
 /*
 Program to implement Merge Sort
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by: Raja R
+Register Number: 212222100041
 */
 ```
 
